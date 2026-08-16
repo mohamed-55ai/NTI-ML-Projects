@@ -9,6 +9,7 @@ Each project focuses on applying Machine Learning concepts to real-world dataset
 | Project | Main Concepts |
 |---|---|
 | Salary Prediction using Linear Regression | EDA, Data Preprocessing, Encoding, Feature Scaling, Linear Regression, Model Evaluation |
+| Gender Classification using Logistic Regression | EDA, Data Preprocessing, Duplicate Handling, Feature Scaling, Logistic Regression, Probability Prediction, Cross Entropy / Log Loss, Overfitting Analysis, Regularization |
 
 ## Tools & Libraries
 
